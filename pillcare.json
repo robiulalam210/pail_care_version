@@ -4,7 +4,7 @@
     "data": {
         "app_name": "Pill Care",
         "package_name": "com.meherin.pillcare",
-        "play_store_version": "1.0.3+4",
+        "play_store_version": "1.0.4+5",
         "app_store_version": "1.1.0",
         "microsoft_store_version": "1.0.0+1",
         "force_update": true,
