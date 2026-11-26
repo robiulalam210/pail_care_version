@@ -1,0 +1,18 @@
+{
+    "success": true,
+    "message": "The request is ok",
+    "data": {
+        "app_name": "Bangla Al Quran",
+        "package_name": "com.mehrin.banglaalquran",
+        "play_store_version": "1.0.0+1",
+        "app_store_version": null,
+        "microsoft_store_version": null,
+        "force_update": false,
+        "is_pause": false,
+        "app_icon": "bangla-al-quran-icon.png",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.mehrin.banglaalquran",
+        "app_store_link": null,
+        "microsoft_store_link": null,
+        "update_message": "নতুন আপডেট এসেছে। সেরা অভিজ্ঞতার জন্য অনুগ্রহ করে অ্যাপটি আপডেট করুন।"
+    }
+}
